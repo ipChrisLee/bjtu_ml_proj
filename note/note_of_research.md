@@ -30,6 +30,35 @@ dalao同学的建议：
 
 
 
+关于时间序列：
+
+* [知乎：时间序列分解1](https://zhuanlan.zhihu.com/p/322273740)
+* [R_时间序列分解](https://rstudio-pubs-static.s3.amazonaws.com/673856_acde89f3b63c4d40b0e8708ab249f032.html)
+
+
+
 参考论文和博客：
 
 * [CSDN:时间序列（arima）+支持向量机（svm）+优化=组合预测](https://blog.csdn.net/u014356002/article/details/53163684)
+
+
+
+# 研究结论
+
+## 关于数据性质
+
+跑了下可视化，可以跑src/visualize.py，看vi_img下的图。
+
+大多数数据其实都没有季节性。。。甚至可以说只有"Natural Gas Electric Power Sector CO2 Emissions"具有非常明显的季节性。
+
+之后需要进一步使用定量的方法确定是不是具有季节性/周期性。
+
+大部分数据的趋势也不是很明朗。。。
+
+
+
+TBD:
+
+* 定型/定量分析数据的季节性和周期性。
+* 之后尝试对每一个单独数据用简单的时间序列分析法做预测（至少对于周期性/季节性比较强的部分可以做）。
+
