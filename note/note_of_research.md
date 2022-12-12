@@ -83,3 +83,11 @@ pearson：Pearson相关系数来衡量两个数据集合是否在一条线上面
 kendall：用于反映分类变量相关性的指标，即针对无序序列的相关系数，非正太分布的数据  
 spearman：非线性的，非正太分析的数据的相关系数min_periods：样本最少的数据量  
 本实验中适合使用pearson相关系数来衡量数据间的相关性，相关系数的绝对值越大，相关性越强：相关系数越接近于1或-1，相关度越强，相关系数越接近于0，相关度越弱。  
+
+以下是pearson相关系数绝对值大于0.7的数据组合  
+Coal Electric Power Sector CO2 Emissions  and  Petroleum Coke Electric Power Sector CO2 Emissions 0.6688  
+Coal Electric Power Sector CO2 Emissions  and  Total Energy Electric Power Sector CO2 Emissions 0.9399  
+Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions and Residual Fuel Oil Electric Power Sector CO2 Emissions 0.7504  
+Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions and  Petroleum Electric Power Sector CO2 Emissions 0.7985  
+Petroleum Coke Electric Power Sector CO2 Emissions   and Total Energy Electric Power Sector CO2 Emissions 0.7635  
+Residual Fuel Oil Electric Power Sector CO2 Emissions  and Petroleum Electric Power Sector CO2 Emissions 0.9951  
