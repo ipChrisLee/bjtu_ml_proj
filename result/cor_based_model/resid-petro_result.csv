@@ -1,0 +1,13 @@
+colInd,toPredict,modelName,args,x,mae
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",0,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.0001}",2,1.35
+"Petroleum Electric Power Sector CO2 Emissions",0,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",2,2.01
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",5,1.18
+"Petroleum Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",3,1.27
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",2,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.0001}",5,1.13
+"Petroleum Electric Power Sector CO2 Emissions",2,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.0001}",6,1.28
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",3,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",3,0.77
+"Petroleum Electric Power Sector CO2 Emissions",3,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",5,0.87
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",4,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",3,0.96
+"Petroleum Electric Power Sector CO2 Emissions",4,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",3,1.11
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",5,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",6,0.96
+"Petroleum Electric Power Sector CO2 Emissions",5,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.001}",6,1.23

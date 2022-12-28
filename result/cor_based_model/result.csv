@@ -1,0 +1,13 @@
+colInd,toPredict,modelName,args,x,mae
+"Natural Gas Electric Power Sector CO2 Emissions",0,LR,"{}",2,1.02
+"Coal Electric Power Sector CO2 Emissions",0,LR,"{}",3,5.11
+"Natural Gas Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.0001}",3,1.38
+"Coal Electric Power Sector CO2 Emissions",1,LR,"{}",2,6.24
+"Natural Gas Electric Power Sector CO2 Emissions",2,LR,"{}",2,1.55
+"Coal Electric Power Sector CO2 Emissions",2,LR,"{}",3,5.62
+"Natural Gas Electric Power Sector CO2 Emissions",3,LR,"{}",4,1.73
+"Coal Electric Power Sector CO2 Emissions",3,LR,"{}",3,3.96
+"Natural Gas Electric Power Sector CO2 Emissions",4,LR,"{}",5,2.44
+"Coal Electric Power Sector CO2 Emissions",4,LR,"{}",3,3.70
+"Natural Gas Electric Power Sector CO2 Emissions",5,LR,"{}",4,2.21
+"Coal Electric Power Sector CO2 Emissions",5,LR,"{}",3,6.69

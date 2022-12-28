@@ -1,0 +1,56 @@
+{
+    "Coal Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 639.5991601679436,
+            "mae": 20.053801885714286
+        }
+    },
+    "Natural Gas Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 482.93774018570133,
+            "mae": 19.15223559619048
+        }
+    },
+    "Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 0.3564941756584873,
+            "mae": 0.4748693898866213
+        }
+    },
+    "Petroleum Coke Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 0.07792704892855468,
+            "mae": 0.22016516952380957
+        }
+    },
+    "Residual Fuel Oil Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 11.438758131548008,
+            "mae": 3.309040400000001
+        }
+    },
+    "Petroleum Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 11.72434109859371,
+            "mae": 3.2868831428571417
+        }
+    },
+    "Geothermal Energy Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 1.966001034457138e-05,
+            "mae": 0.0037851271620391205
+        }
+    },
+    "Non-Biomass Waste Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 0.002849909848699927,
+            "mae": 0.04329454416760788
+        }
+    },
+    "Total Energy Electric Power Sector CO2 Emissions": {
+        "6 day": {
+            "mse": 1044.898200825844,
+            "mae": 25.847321828571417
+        }
+    }
+}

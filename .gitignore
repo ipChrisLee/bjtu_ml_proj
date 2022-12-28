@@ -1,7 +1,7 @@
 **/.idea
 **/__pycache__
 **/DS_Store
-vi_img/visual_data/*
-vi_img/pre_nxt/*
-vi_img/pre_nxt_pm/*
-vi_img/correlation/*
+#vi_img/visual_data/*
+#vi_img/pre_nxt/*
+#vi_img/pre_nxt_pm/*
+#vi_img/correlation/*

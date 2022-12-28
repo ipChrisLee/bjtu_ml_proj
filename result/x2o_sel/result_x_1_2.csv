@@ -1,0 +1,55 @@
+colInd,toPredict,modelName,args,x,mae
+"Coal Electric Power Sector CO2 Emissions",0,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",1,4.33
+"Coal Electric Power Sector CO2 Emissions",1,LR,"{}",2,6.06
+"Coal Electric Power Sector CO2 Emissions",2,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,5.63
+"Coal Electric Power Sector CO2 Emissions",3,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,4.93
+"Coal Electric Power Sector CO2 Emissions",4,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,4.44
+"Coal Electric Power Sector CO2 Emissions",5,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,5.14
+"Natural Gas Electric Power Sector CO2 Emissions",0,LR,"{}",1,1.06
+"Natural Gas Electric Power Sector CO2 Emissions",1,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,1.42
+"Natural Gas Electric Power Sector CO2 Emissions",2,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,1.61
+"Natural Gas Electric Power Sector CO2 Emissions",3,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",2,1.80
+"Natural Gas Electric Power Sector CO2 Emissions",4,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,2.41
+"Natural Gas Electric Power Sector CO2 Emissions",5,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",1,2.83
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",0,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,0.48
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",1,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,0.28
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",2,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",2,0.20
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",3,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,0.13
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",4,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.13
+"Distillate Fuel, Including Kerosene-Type Jet Fuel, Oil Electric Power Sector CO2 Emissions",5,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.8}",2,0.18
+"Petroleum Coke Electric Power Sector CO2 Emissions",0,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,0.10
+"Petroleum Coke Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",1,0.09
+"Petroleum Coke Electric Power Sector CO2 Emissions",2,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,0.15
+"Petroleum Coke Electric Power Sector CO2 Emissions",3,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.12
+"Petroleum Coke Electric Power Sector CO2 Emissions",4,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.13
+"Petroleum Coke Electric Power Sector CO2 Emissions",5,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",1,0.15
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",0,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",1,1.26
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,1.12
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",2,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,1.09
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",3,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",1,0.86
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",4,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,0.99
+"Residual Fuel Oil Electric Power Sector CO2 Emissions",5,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,1.36
+"Petroleum Electric Power Sector CO2 Emissions",0,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,1.53
+"Petroleum Electric Power Sector CO2 Emissions",1,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",1,1.41
+"Petroleum Electric Power Sector CO2 Emissions",2,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,1.36
+"Petroleum Electric Power Sector CO2 Emissions",3,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",2,0.97
+"Petroleum Electric Power Sector CO2 Emissions",4,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.4}",2,1.19
+"Petroleum Electric Power Sector CO2 Emissions",5,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",1,1.58
+"Geothermal Energy Electric Power Sector CO2 Emissions",0,LR,"{}",1,0.00
+"Geothermal Energy Electric Power Sector CO2 Emissions",1,LR,"{}",1,0.00
+"Geothermal Energy Electric Power Sector CO2 Emissions",2,LR,"{}",1,0.00
+"Geothermal Energy Electric Power Sector CO2 Emissions",3,LR,"{}",1,0.00
+"Geothermal Energy Electric Power Sector CO2 Emissions",4,LR,"{}",1,0.00
+"Geothermal Energy Electric Power Sector CO2 Emissions",5,LR,"{}",1,0.00
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",0,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",1,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",2,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",3,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",4,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Non-Biomass Waste Electric Power Sector CO2 Emissions",5,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,0.03
+"Total Energy Electric Power Sector CO2 Emissions",0,SVM,"{'C': 1.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",1,5.73
+"Total Energy Electric Power Sector CO2 Emissions",1,LR,"{}",2,7.09
+"Total Energy Electric Power Sector CO2 Emissions",2,SVM,"{'C': 2.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.2}",2,5.37
+"Total Energy Electric Power Sector CO2 Emissions",3,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,4.95
+"Total Energy Electric Power Sector CO2 Emissions",4,SVM,"{'C': 4.0, 'max_iter': 100000, 'random_state': 42, 'tol': 0.1}",2,6.01
+"Total Energy Electric Power Sector CO2 Emissions",5,SVM,"{'C': 0.5, 'max_iter': 100000, 'random_state': 42, 'tol': 0.8}",1,7.31
