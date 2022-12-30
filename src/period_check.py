@@ -40,4 +40,5 @@ for colInd in df.columns[2:]:
     #     acf_score = acf(seq, nlags=lag)[-1]
     #     print(f"lag: {lag} fft acf: {acf_score}")
     acf_score = acf(seq, nlags=12, fft=False)[-1]
-    print(f"{colInd[0:5]} & {acf_score:.4f} \\\\")
+    # print(f"{colInd[0:5]} & {acf_score:.4f} \\\\")
+    print(f"| {colInd[0:5]} | {acf_score:.4f} |")

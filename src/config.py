@@ -23,6 +23,8 @@ VIS_PRE_NXT_PER_MON_FOLDER_PATH = Path("vi_img/pre_nxt_pm")
 VIS_CORRELATION_FOLDER_PATH = Path("vi_img/correlation")
 #
 TOTAL_RESULT = Path("result/total_res.json")
+#
+COR_MAT_FILE_PATH = Path("result/cor_mat.csv")
 
 
 class RES_FOLDER_PATH:
